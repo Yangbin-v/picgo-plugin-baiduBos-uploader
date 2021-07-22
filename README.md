@@ -10,3 +10,6 @@ npm install ./picgo-plugin-baiduBos-uploader
 ```
 
 重启picgo即可使用
+
+# 插件开发流程
+[传送门](https://ningye.top/2021/07/19/1718/)
